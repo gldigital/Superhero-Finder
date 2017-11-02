@@ -1,25 +1,26 @@
 {
-  "name": "friendfinder",
+  "name": "superhero-finder",
   "version": "1.0.0",
-  "description": "",
+  "description": "In this activity, I build a compatibility-based \"FriendFinder\" application. This full-stack site will take in results from the survey, then compare the answers with other users. The app will then display the name and picture of the user with the best overall match.",
   "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gldigital/FriendFinder.git"
+    "url": "git+https://github.com/gldigital/Superhero-Finder.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/gldigital/FriendFinder/issues"
+    "url": "https://github.com/gldigital/Superhero-Finder/issues"
   },
-  "homepage": "https://github.com/gldigital/FriendFinder#readme",
-  "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.16.2",
-    "path": "^0.12.7"
-  }
+  "homepage": "https://github.com/gldigital/Superhero-Finder#readme"
 }
