@@ -1,0 +1,23 @@
+
+.jumbotron h1 {
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.jumbotron p {
+    font-size: 18px;
+}
+
+.homeHeros {
+    background-image: url("https://ae01.alicdn.com/kf/HTB1EuNKRpXXXXcWXFXXq6xXFXXXd/2017-TOP-COOL-original-art-painting-Marvel-Comic-Super-Hero-Collage-print-art-painting-on-canvas.jpg");
+    height: 516px;
+}
+
+.navbar {
+    background: #eee;
+    margin-bottom: 0px;
+}
+
+.footerLinks {
+    padding: 15px 20px;
+}
